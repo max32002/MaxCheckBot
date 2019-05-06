@@ -22,6 +22,12 @@ Selenium 使用 Chrome 瀏覽器 webdriver
 
 https://stackoverflow.max-everyday.com/2018/03/selenium-chrome-webdriver/
 
+# 影片示範：
+
+https://www.youtube.com/watch?v=bP71cj2CY-U
+
+[![Max打勾機器人](http://img.youtube.com/vi/bP71cj2CY-U/0.jpg)](http://www.youtube.com/watch?v=bP71cj2CY-U)
+
 ----
 
 # requirement：
