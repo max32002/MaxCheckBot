@@ -1,9 +1,14 @@
 # MaxCheckBot
 use selenium to check all checkbox
+
 幫你把網頁裡的checkbox（複選框）打勾。
+
+* Scroll down for English documentation.
 
 # 需要的套件：
 <code>pip install selenium</code>
+
+而且你需要下載 chromedriver
 
 # 執行方式：
 <code>python max_checkbox.py</code>
@@ -16,4 +21,16 @@ use selenium to check all checkbox
 Selenium 使用 Chrome 瀏覽器 webdriver
 
 https://stackoverflow.max-everyday.com/2018/03/selenium-chrome-webdriver/
+
+----
+
+# requirement：
+<code>pip install selenium</code>
+
+and you need download chromedriver
+
+# command：
+<code>python max_checkbox.py</code>
+或 
+<code>python3 max_checkbox.py</code>
 
